@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f5828b7-c7db-4153-a213-1dd684656682" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Communicate_Data_Findings.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Communicate_Data_Findings.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exploratory_data_finding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exploratory_data_finding.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="1f5828b7-c7db-4153-a213-1dd684656682" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +15,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="285">
-                <caret line="19" selection-start-line="19" selection-end-line="19" />
+                <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -137,11 +134,14 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exploratory_data_finding.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="285">
-            <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           </first_editor>
           <second_editor />
         </state>
